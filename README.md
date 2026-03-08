@@ -2,13 +2,14 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Raphael Lima 
+Matricula: 917322
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print Aba Network Portal](images/Print.png)
 
+![Print Resultado Navegador index](images/Print2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
