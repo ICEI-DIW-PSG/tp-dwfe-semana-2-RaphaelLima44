@@ -13,7 +13,7 @@ Print da tela com os testes de inspeção de conexão feitos com o navegador.
 ![Print solicitado](images/Print1.png)
 
 Print do resultado apresentado no navegador para o arquivo index.html.
-![Print Aba Network Portal](images/Print.png)
+![Print Aba Network Portal](images/Print2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
