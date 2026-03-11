@@ -2,13 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Raphael Ruan Victor Leite de Lima
+Matricula: 917322
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+Print da tela com os testes de inspeção de conexão feitos com o navegador.
+![Print solicitado](images/Print1.png)
 
+Print do resultado apresentado no navegador para o arquivo index.html.
+![Print index.html](images/print2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
